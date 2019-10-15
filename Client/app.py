@@ -62,7 +62,7 @@ if __name__ == "__main__":
 	bloglinda = linda.TupleSpace()
 	linda.universe._out(("Blog Linda", bloglinda))
 
-	api.add_resource(MicroBlog, "/blog/<string:user")
+	api.add_resource(MicroBlog, "/blog/<string:user>")
 	app.run(debug = True)
 
 
