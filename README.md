@@ -1,7 +1,11 @@
 # SDLinda
 Primeiro trabalho da disciplina de Sistemas Distribuidos
 
-- Como rodar o trabalho
+Alunas: 
+Gabrieli Santos 726523
+Julia Milani 726552
+
+## Como rodar o trabalho
 
 Para iniciar o servidor:
 
